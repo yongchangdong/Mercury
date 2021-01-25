@@ -1,5 +1,6 @@
 # Mercury
 ## a Spring and Hibernate based Shopping and Ordering system
+![3](https://user-images.githubusercontent.com/63382428/105675610-36132480-5e9e-11eb-986b-d6f3df79f7df.PNG)
 
 ## Structure of this project
 ![1](https://user-images.githubusercontent.com/63382428/105673642-2e9e4c00-5e9b-11eb-959c-12d83e94864c.PNG)
